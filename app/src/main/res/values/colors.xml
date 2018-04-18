@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <array name="seekColors">
+        <item>#ff15fb</item>
+        <item>#ff1529</item>
+        <item>#ff6315</item>
+        <item>#ffb115</item>
+        <item>#ffe815</item>
+        <item>#ff15fb</item>
+        <item>#ff1529</item>
+        <item>#ff6315</item>
+        <item>#ffb115</item>
+        <item>#ffe815</item>
+        <item>#ff15fb</item>
+        <item>#ff1529</item>
+        <item>#ff6315</item>
+        <item>#ffb115</item>
+        <item>#ffe815</item>
+    </array>
+
+    <color name="colorStartProgress">#ff2d73</color>
+    <color name="colorEndProgress">#ff9e3e</color>
+    <color name="colorStartRadiance">#ff6699</color>
+    <color name="colorEndRadiance">#f7b16c</color>
+</resources>

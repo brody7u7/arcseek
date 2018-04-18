@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   <declare-styleable name="SeekBarArc">
+       <attr name="thumb" format="reference"/>
+       <attr name="showThumb" format="boolean" />
+       <attr name="minProgress" format="float"/>
+       <attr name="maxProgress" format="float"/>
+       <attr name="increaseValue" format="float"/>
+       <attr name="progress" format="float"/>
+       <attr name="startAngle" format="float"/>
+       <attr name="endAngle" format="float"/>
+       <attr name="progressColor" format="color|reference"/>
+       <attr name="progressStartColor" format="color|reference"/>
+       <attr name="progressEndColor" format="color|reference"/>
+       <attr name="progressBackgroundColor" format="color|reference"/>
+       <attr name="radianceStartColor" format="color|reference"/>
+       <attr name="radianceEndColor" format="color|reference"/>
+       <attr name="hasRadiance" format="boolean"/>
+       <attr name="progressWidth" format="dimension"/>
+       <attr name="progressBackgroundWidth" format="dimension"/>
+       <attr name="roundEdges" format="boolean" />
+   </declare-styleable>
+
+    <declare-styleable name="GradientProgressBar">
+        <attr name="minProgress"/>
+        <attr name="maxProgress"/>
+        <attr name="progress"/>
+        <attr name="progressBackgroundColor"/>
+        <attr name="progressStartColor"/>
+        <attr name="progressEndColor"/>
+        <attr name="hasRadiance"/>
+        <attr name="radianceStartColor"/>
+        <attr name="radianceEndColor"/>
+        <attr name="borderOffset" format="dimension"/>
+        <attr name="cornerRadius" format="dimension"/>
+    </declare-styleable>
+</resources>
